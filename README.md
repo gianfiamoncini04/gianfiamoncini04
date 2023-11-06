@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 ```javascript
 {
-  email: carlo.gcf04@gmail.com
+  "email": "carlo.gcf04@gmail.com"
 }
 ```
 
