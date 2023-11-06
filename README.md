@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Gian Fiamoncini
 - 👀 I’m interested in LEARN
 - 🌱 I’m currently learning .NET
-- 📫 How to reach me: ```carlo.gcf04@gmail.com```
+- 📫 How to reach me:
+```
+carlo.gcf04@gmail.com
+```
 
 <hr/>
 
