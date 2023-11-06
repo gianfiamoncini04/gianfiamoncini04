@@ -2,7 +2,7 @@
 - 👀 I’m interested in LEARN
 - 🌱 I’m currently learning .NET
 - 📫 How to reach me:
-```javascript
+```email
 carlo.gcf04@gmail.com
 ```
 
